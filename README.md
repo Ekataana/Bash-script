@@ -1,4 +1,7 @@
-# First-script
+Description:
+
+This script is used to automate updating information in a remote repository.
+
 Before starting work with the repository, we clone the remote repository on our computer git clone <repository link> .
 
 Сreating new directories mkdir <directory name> .
